@@ -1,0 +1,16 @@
+// The Round Table
+digraph {
+	0 [label=A]
+	1 [label=B]
+	0 -> 1
+	2 [label=C]
+	0 -> 2
+	3 [label=D]
+	0 -> 3
+	4 [label=E]
+	5 [label=F]
+	4 -> 5
+	6 [label=G]
+	4 -> 6
+	0 -> 4
+}
