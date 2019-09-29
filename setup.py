@@ -19,6 +19,5 @@ setup(name='pytree',
       [console_scripts]
       pytree = pytree.tree:main
       """,
+      python_requires='>=3'
 )
-
-
